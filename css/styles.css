@@ -34,33 +34,15 @@ hr{
   height:150px;
 }
 .background{
-  /* position:relative; */
+  position:relative;
   border-radius:100%;
-  width:30%;
+  width:30%; 
   height:70%;
-  background-color:#ABF0E9;
   margin:0 auto;
   float:left;
   margin-right: 30px;
-  }
-.icon1{
-  position:relative;
-  border-radius:100%;
-  width:35%;
-  height:35%;
-  bottom:40px;
-  margin-right: 10px;
-  /* top:230px;
-  left:50px */
-}
-/* .icon3{
-   /* position:absolute; */
-  /* border-radius:100%;
-  width:35%;
-  height:35%; */
-  /* top:230px;
-  right:50px; */
-/* } */
+  } 
+
 .football{
   width:25%;
   height:25%;
@@ -73,44 +55,41 @@ hr{
 .font{
   font-size: 2.5rem;
   color: #66BFBF;
-  font-weight: normal;
+  font-weight: bold;
 }
 .footer-link{color:#11999E;}
 .skill-row1{
   margin:100px auto 100px auto;
   width:50%;
-  /* text-align: left; */
   line-height: 2;
 }
 .skill-row2{
   margin:100px auto 100px auto;
   width:50%;
-  /* text-align: left; */
   line-height: 2;
 }
 .icon2{
   position:relative;
   margin-top:100px;
   border-radius:100%;
-  width:35%;
-  height:35%;
+  width:100%;
+  height:100%;
   text-align: center;
-  bottom:40px;
-  margin-left: 10px;
+  bottom:47px;
+  margin-left: 0px;
 }
 .text{color:#40514E;}
 .text2{
   margin-top: 50px;
   text-align: left;
-  /* clear:right; */
 }
 .text1{
   margin-top: 50px;
   text-align: left;
-  /* clear:left; */
 }
 .adj{
   margin-top: 50px;
+  font-weight: bolder;
 }
 .space{
   margin-top: 50px;
@@ -126,7 +105,6 @@ hr{
   position:relative;
   margin-top: 50px;
   color:#EAF6F6;
-  /* padding-bottom: 10px; */
   top:10px;
   font-size: 0.75rem;
 }
